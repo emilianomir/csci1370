@@ -105,10 +105,10 @@ int main()
            // inputs: an integer value
           // returns: true if value is a prime number, false otherwise
 
-	if (isPrime(num))
-  {
-		cout << num << " is prime." << endl;
-	}
+// 	if (isPrime(num))
+//   {
+// 		cout << num << " is prime." << endl;
+// 	}
 
 
 
@@ -122,7 +122,7 @@ int main()
 	//countPrimes(12); //Should print: "there are 5 prime numbers up to 12"     (the prime numbers are 2,3,5,7,11)
 	//countPrimes(22); //Should print: "there are 8 prime numbers up to 22"     (the prime numbers are 2,3,5,7,11,13,17,19)
 
-
+	helloFunc();
 
 	return 0;
 }
